@@ -18,9 +18,11 @@ class Program
 
         // Bai 3
         Console.WriteLine("Bai 3");
-        Calculator calculator = new Calculator();
-        calculator.NumberA = 10;
-        calculator.NumberB = 5;
+        Calculator calculator = new Calculator
+        {
+            NumberA = 10,
+            NumberB = 5
+        };
 
         Console.WriteLine("So A: " + calculator.NumberA);
         Console.WriteLine("So B: " + calculator.NumberB);

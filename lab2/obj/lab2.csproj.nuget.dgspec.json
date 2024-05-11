@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab1\\lab1.csproj": {}
+    "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab2\\lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab1\\lab1.csproj": {
+    "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab2\\lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab1\\lab1.csproj",
-        "projectName": "lab1",
-        "projectPath": "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab1\\lab1.csproj",
+        "projectUniqueName": "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab2\\lab2.csproj",
+        "projectName": "lab2",
+        "projectPath": "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab2\\lab2.csproj",
         "packagesPath": "C:\\Users\\TechCare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab1\\obj\\",
+        "outputPath": "C:\\Users\\TechCare\\Desktop\\Csharp2\\lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TechCare\\AppData\\Roaming\\NuGet\\NuGet.Config"
