@@ -1,0 +1,14 @@
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.AssemblyInfoInputs.cache
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.AssemblyInfo.cs
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\Desktop\Csharp2\lab3\bin\Debug\net7.0\lab3.exe
+C:\Users\TechCare\Desktop\Csharp2\lab3\bin\Debug\net7.0\lab3.deps.json
+C:\Users\TechCare\Desktop\Csharp2\lab3\bin\Debug\net7.0\lab3.runtimeconfig.json
+C:\Users\TechCare\Desktop\Csharp2\lab3\bin\Debug\net7.0\lab3.dll
+C:\Users\TechCare\Desktop\Csharp2\lab3\bin\Debug\net7.0\lab3.pdb
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.dll
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\refint\lab3.dll
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.pdb
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\lab3.genruntimeconfig.cache
+C:\Users\TechCare\Desktop\Csharp2\lab3\obj\Debug\net7.0\ref\lab3.dll
