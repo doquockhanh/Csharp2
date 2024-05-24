@@ -1,0 +1,14 @@
+C:\Users\TechCare\Desktop\Csharp2\lab7\bin\Debug\net7.0\lab7.exe
+C:\Users\TechCare\Desktop\Csharp2\lab7\bin\Debug\net7.0\lab7.deps.json
+C:\Users\TechCare\Desktop\Csharp2\lab7\bin\Debug\net7.0\lab7.runtimeconfig.json
+C:\Users\TechCare\Desktop\Csharp2\lab7\bin\Debug\net7.0\lab7.dll
+C:\Users\TechCare\Desktop\Csharp2\lab7\bin\Debug\net7.0\lab7.pdb
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.AssemblyInfoInputs.cache
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.AssemblyInfo.cs
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.dll
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\refint\lab7.dll
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.pdb
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\lab7.genruntimeconfig.cache
+C:\Users\TechCare\Desktop\Csharp2\lab7\obj\Debug\net7.0\ref\lab7.dll
